@@ -1,6 +1,5 @@
-body{background-color: rgba(37, 6, 9, 0);}
-body{background-image: linear-gradient(to right, #36040805, rgb(175, 19, 19));}
+
+body{background-color: rgb(240, 193, 209);}
+body{background-image: linear-gradient(to direçãoDoGradiente, PrimeiraCordoGradiente, SegundaCorDoGradiente);}
 body{text-align: center;}
 footer{text-align: left;}
-body{font-size: 30px;}
-body{font-family: Verdana, Geneva, Tahoma, sans-serif]}
