@@ -1,5 +1,10 @@
 
-body{background-color: rgb(240, 193, 209);}
+body{background: -webkit-linear-gradient(left, #f9afdf, #b5caff);
+    background: -moz-linear-gradient(left, #f9afdf, #b5caff);
+    background: -ms-linear-gradient(left, #f9afdf, #b5caff);
+    background: -o-linear-gradient(left, #f9afdf, #b5caff);
+    background: linear-gradient(to right, #f9afdf, #b5caff);;}
 body{background-image: linear-gradient(to direçãoDoGradiente, PrimeiraCordoGradiente, SegundaCorDoGradiente);}
 body{text-align: center;}
 footer{text-align: left;}
+body{margin-left: ao; utmargin-right: auto; width:4em}
